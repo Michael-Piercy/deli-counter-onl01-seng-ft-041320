@@ -12,17 +12,6 @@ def line(x)
   end
 end
 
-
-
-
-
-
-
-
-
-
-
-
 katz_deli = []
 
 def line(cust)
