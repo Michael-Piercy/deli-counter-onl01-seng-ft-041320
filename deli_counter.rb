@@ -12,4 +12,7 @@ def line(cust)
   end
 end
 
-
+def take_a_number(katz_deli, cust)
+  katz_deli.push(cust)
+  puts "Welcome, #{cust}. You are number #{katz_deli.length} in line."
+end
